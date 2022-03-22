@@ -1,4 +1,4 @@
-### Hello, this is Younsoo Kim 👋
+
 
 <h1 align="center">Hi 👋, I'm YounsooKim</h1>
 <h3 align="center">A passionate data scientist from Korea</h3>
