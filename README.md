@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm YounsooKim</h1>
+<h1 align="center">Hi 👋, I'm Joy YounsooKim</h1>
 <h3 align="center">A passionate data scientist from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younsookimtech&label=Profile%20views&color=0e75b6&style=flat" alt="younsookimtech" /> </p>
