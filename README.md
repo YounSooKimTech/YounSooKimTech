@@ -51,10 +51,16 @@
 <br>
 
 ### 🔭 I’m currently working on 
-- My old project
+- My old projects
 - The United Nations Headquarters NLP project for risk labeling
 - The United Nations Headquarters User Authorization and Data Input Integration Project
 - Artificial Intelligence Research in Applied Linguistics (AIRiAL) Conference at Teachers College, Columbia University (poster)
 - Decision Sciences Institute 54th Annual Conference in Atlanta (full-paper presentation)
 - The American Society of Criminology Conference
 
+
+<br>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=YounSooKimTech)](https://github.com/YounSooKimTech)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounSooKimTech&layout=compact)](https://github.com/YounSooKimTech)
