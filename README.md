@@ -7,8 +7,8 @@
 
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/youn-soo-kim-7324b6235/"><img align="left" src="https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
-
-- If you have a question, don't hesitate to reach out to me. 
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ### 🔭 I’m currently working on **multiple projects, including United Nations Headquarters, Rutgers, and Conferences**
 
