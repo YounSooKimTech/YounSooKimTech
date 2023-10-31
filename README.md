@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younsookimtech&label=Profile%20views&color=0e75b6&style=flat" alt="younsookimtech" /> </p>
 
 ### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/youn-soo-kim-7324b6235/" onclick="window.open('https://www.linkedin.com/in/youn-soo-kim-7324b6235/', '_blank'); return false;">
+<a href="https://www.linkedin.com/in/youn-soo-kim-7324b6235/"  target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/linkedin.png" alt="icon | LinkedIn" width="21px"/>
 </a>
 
