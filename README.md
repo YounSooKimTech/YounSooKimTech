@@ -57,19 +57,7 @@
 - The American Society of Criminology Conference
 
 
-
-
-- ⚡ Fun fact **I like classical music, opera, and art. I am one of the wanderers of the museums**
-
-- 🌱 I’m currently learning **data analysis for social science**
-
-- 👯 I’m looking to collaborate on **Youtube**
-
-- 🤝 I’m looking for help with **JAVA**
-
-- 💬 Ask me about **Python, R, Stat**
-
-
+'''
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
@@ -88,7 +76,5 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  
-
 </div>
-
+'''
