@@ -16,9 +16,15 @@
 
 
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to contact me!
 
-### 🔭 I’m currently working on **multiple projects, including United Nations Headquarters, Rutgers, and Conferences**
+### 🔭 I’m currently working on 
+- My old project
+- The United Nations Headquarters NLP project for risk labeling
+- The United Nations Headquarters User Authorization and Data Input Integration Project
+- Artificial Intelligence Research in Applied Linguistics (AIRiAL) Conference at Teachers College, Columbia University (poster)
+- Decision Sciences Institute 54th Annual Conference in Atlanta (full-paper presentation)
+- The American Society of Criminology Conference
 
 - 🌱 I’m currently learning **data analysis for social science**
 
