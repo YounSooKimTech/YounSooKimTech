@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younsookimtech&label=Profile%20views&color=0e75b6&style=flat" alt="younsookimtech" /> </p>
 
 - 🤝 Connect with me
-  <a href=”https://www.linkedin.com/in/youn-soo-kim-7324b6235/"><img align=”left” src=”https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+  <a href="https://www.linkedin.com/in/youn-soo-kim-7324b6235/"><img align="left" src="https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/linkedin.png", alt=”icon | LinkedIn” width=”21px”/></a>
 
 - 🔭 I’m currently working on **multiple projects, including United Nations Headquarters, Rutgers, and Conferences**
 
