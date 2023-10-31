@@ -36,9 +36,10 @@
   <img align="left" src="https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/instagram.png" alt="icon | Instagram" width="21px"/>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href=""mailto:yk2949@columbia.edu"">
+<a target="_blank" rel="noopener noreferrer" href="mailto:yk2949@columbia.edu">
   <img align="left" src="https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/gmail.png" alt="icon | Gmail" width="21px"/>
 </a>
+
 
 
 </br>
