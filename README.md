@@ -6,11 +6,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younsookimtech&label=Profile%20views&color=0e75b6&style=flat" alt="younsookimtech" /> </p>
 
 ### 💻😄 Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) [![STATA](https://img.shields.io/badge/STATA-4B8BBE?style=for-the-badge)](https://www.stata.com/) [![SPSS](https://img.shields.io/badge/SPSS-FF7F00?style=for-the-badge)](https://www.ibm.com/analytics/spss-statistics-software)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
+[![STATA](https://img.shields.io/badge/STATA-4B8BBE?style=for-the-badge)](https://www.stata.com/) 
+[![SPSS](https://img.shields.io/badge/SPSS-FF7F00?style=for-the-badge)](https://www.ibm.com/analytics/spss-statistics-software)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge)
 
