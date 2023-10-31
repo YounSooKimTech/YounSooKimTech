@@ -18,6 +18,9 @@
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge)
+![Econometrics](https://img.shields.io/badge/Econometrics-FFD700?style=for-the-badge)
+![Experiment](https://img.shields.io/badge/Experiment-32CD32?style=for-the-badge)
+
 
 <br><br>
 
