@@ -5,6 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younsookimtech&label=Profile%20views&color=0e75b6&style=flat" alt="younsookimtech" /> </p>
 
+### 💻😄 Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+[![STATA](https://img.shields.io/badge/STATA-4B8BBE?style=for-the-badge)](https://www.stata.com/)
+[![SPSS](https://img.shields.io/badge/SPSS-FF7F00?style=for-the-badge)](https://www.ibm.com/analytics/spss-statistics-software)
+
+
 ### 🤝 Connect with me
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/youn-soo-kim-7324b6235/">
   <img align="left" src="https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/linkedin.png" alt="icon | LinkedIn" width="21px"/>
@@ -17,6 +24,7 @@
 
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to contact me!
+- 📫 my email address is **yk2949@columbia.edu**
 
 ### 🔭 I’m currently working on 
 - My old project
@@ -26,6 +34,11 @@
 - Decision Sciences Institute 54th Annual Conference in Atlanta (full-paper presentation)
 - The American Society of Criminology Conference
 
+
+
+
+- ⚡ Fun fact **I like classical music, opera, and art. I am one of the wanderers of the museums**
+
 - 🌱 I’m currently learning **data analysis for social science**
 
 - 👯 I’m looking to collaborate on **Youtube**
@@ -33,11 +46,6 @@
 - 🤝 I’m looking for help with **JAVA**
 
 - 💬 Ask me about **Python, R, Stat**
-
-- 📫 How to reach me **yk2949@columbia.edu**
-
-- ⚡ Fun fact **I like classical music, opera, and art. I am one of the wanderers of the museums**
-
 
 
 <div align=center><h1>📚 STACKS</h1></div>
