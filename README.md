@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younsookimtech&label=Profile%20views&color=0e75b6&style=flat" alt="younsookimtech" /> </p>
 
-- 🔭 I’m currently working on **multiple projects, including Rutgers**
+- 🔭 I’m currently working on **multiple projects, including United Nations Headquarters, Rutgers, and Conferences**
 
 - 🌱 I’m currently learning **data analysis for social science**
 
