@@ -19,8 +19,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge)
 
-
-
+<br><br><br>
 
 
 ### 🤝 Connect with me
