@@ -10,6 +10,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 [![STATA](https://img.shields.io/badge/STATA-4B8BBE?style=for-the-badge)](https://www.stata.com/)
 [![SPSS](https://img.shields.io/badge/SPSS-FF7F00?style=for-the-badge)](https://www.ibm.com/analytics/spss-statistics-software)
+[![SPSS](ttps://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://www.ibm.com/analytics/spss-statistics-software)
+
 
 
 ### 🤝 Connect with me
