@@ -30,6 +30,8 @@
 
 
 ### 🤝 Connect with me
+
+
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/youn-soo-kim-7324b6235/">
   <img align="left" src="https://github.com/YounSooKimTech/YounSooKimTech/blob/main/icons/linkedin.png" alt="icon | LinkedIn" width="21px"/>
 </a>
